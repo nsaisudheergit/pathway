@@ -1,0 +1,8 @@
+{
+  "name": "PathwayAI",
+  "description": "AI-Powered Learning, Skill Assessment \u0026 Career Readiness for Everyone — personalized learning tracks, Gemini Flash mock interviews, adaptive quizzes, and placement opportunities for students, graduates, and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
